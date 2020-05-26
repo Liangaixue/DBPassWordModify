@@ -23,7 +23,8 @@ namespace WindowsFormsApplication1
 
         private void buttonPopForm_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("测试弹框");
+            MessageBox.Show("测试弹框1");
+            MessageBox.Show("测试弹框2");
         }
     }
 }
